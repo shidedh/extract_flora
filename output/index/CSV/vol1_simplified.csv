@@ -366,7 +366,6 @@ Arundo,pliniana,Turra
 Arundo,plinii,Turra
 Arundo,pseudophragmites,Hall. fil.
 Asarum,,
-Asarum,hypocistis,L.
 Asparagus,,
 Asparagus,acutifolius,L.
 Asparagus,aphyllus,L.
@@ -456,9 +455,7 @@ Avena,sativa,L.
 Avena,sterilis,L.
 Avena,wiestii,Steud.
 Axyris,,
-Axyris,ceratoides,L.
 Baldingera,,
-Baldingera,colorata,FI. Witt.
 Bassia,,
 Bassia,arabica,(Bo s.) Maire et Weiller
 Bassia,eriophora,(Schrad.) O. Kuntze
@@ -468,7 +465,6 @@ Bassia,muricata,L.) Murr.
 Beckmannia,,
 Beckmannia,eruciformis,(L.) Host
 Behen,,
-Behen,vulgaris,Mœnch
 Bellevalia,,
 Bellevalia,ciliata,(Gyr.) Nées
 Bellevalia,densiflora,Boiss.
@@ -486,14 +482,13 @@ Beta,,
 Beta,maritima,L.
 Beta,vulgaris,L.
 Biarum,,
-Flore,,
-Flore,aleppicum,Thiéb.
-Flore,angustatum,(J. E. Hook.) Boiss.
-Flore,auraniticum,Moût.
-Flore,bovei,Blume
-Flore,carduchorum,(Schott) Engler
-Flore,pyrami,(Schott) Engler
-Flore,russellianum,Schott
+Biarum,aleppicum,Thiéb.
+Biarum,angustatum,(J. E. Hook.) Boiss.
+Biarum,auraniticum,Moût.
+Biarum,bovei,Blume
+Biarum,carduchorum,(Schott) Engler
+Biarum,pyrami,(Schott) Engler
+Biarum,russellianum,Schott
 Bilderdykia,,
 Bilderdykia,convolvulus,(L.) Dumort.
 Blechnum,,
@@ -568,7 +563,6 @@ Bromus,tectorum,L.
 Bromus,tomentellus,Boiss.
 Bromus,villosus,Forsk.
 Broussonetia,,
-Broussonetia,papyrifera,(L.) L'Hér.
 Buffonia,,
 Buffonia,ephedrina,Sam.
 Buffonia,kotschyana,Boiss.
@@ -578,7 +572,6 @@ Buffonia,paniculata,Dubois
 Buffonia,tenuifolia,Vill.
 Buffonia,virgata,Boiss.
 Bulbillaria,,
-Bulbillaria,gageoides,Zucc.
 Butomus,,
 Butomus,umbellatus,L.
 Calamagrostis,,
@@ -599,7 +592,7 @@ Carex,contigua,Hoppe
 Carex,distans,L.
 Carex,diversicolor,Druce
 Carex,divisa,Huds.
-Carex,divulsa,Stokes
+Carex,divulsa,Stokes 121c
 Carex,echinata,Murr. Desf.
 Carex,echinata,Murr. Desf.
 Carex,extensa,Good.
@@ -638,9 +631,7 @@ Carpinus,,
 Carpinus,duinensis,Scop.
 Carpinus,orientalis,Mill.
 Carpobrotus,,
-Carpobrotus,edulis,(L.) N. E. Br.
 Castanea,,
-Castanea,sativa,L.
 Catabrosa,,
 Catabrosa,aquatica,(L.) Beauv.
 Catabrosa,humilis,(M. Bieb.) Trin.
@@ -655,7 +646,6 @@ Cedrus,libanensis,Juss.
 Cedrus,libani,A. Rich.
 Cedrus,libanotica,Link
 Celosia,,
-Celosia,çristata,L.
 Celtis,,
 Celtis,australis,L.
 Celtis,tournefortii,Lam.
@@ -740,7 +730,6 @@ Colchicum,tuviae,Feinbr.
 Colpodium,,
 Colpodium,humile,(M. Bieb.) Asch. et Gr.
 Comperia,,
-Comperia,comperiana,(Stev. Asch. et
 Cornucopiae,,
 Cornucopiae,alopecuroides,L.
 Cornucopiae,cucullatum,L.
@@ -784,8 +773,7 @@ Crypsis,,
 Crypsis,aculeata,(L.) Aiton
 Crypsis,alopecuroides,(L.) Host
 Crypsis,factorovskyi,Eig
-:,,
-:,schœnoides,"(Pill, et Mitterp.) Host-*"
+Crypsis,schœnoides,"(Pill, et Mitterp.) Host-*"
 Ctenopsis,,
 Ctenopsis,patens,(Boiss.) Meld.
 Ctenopsis,pectinella,(Del.) De Notaris
@@ -794,10 +782,9 @@ Cucubalus,aegyptiacus,L.
 Cucubalus,baccifer,L.
 Cucubalus,behen,L.
 Cucubalus,inflatus,Salisb.
-c,,
-c,italiens,L.
-c,polygonoides,Willd.
-c,venosus,Gilib.
+Cucubalus,italiens,L.
+Cucubalus,polygonoides,Willd.
+Cucubalus,venosus,Gilib.
 Cupressus,,
 Cupressus,sempervirens,L.
 Çutandia,,
@@ -814,7 +801,6 @@ Cymodocea,aequorea,Kœnig
 Cymodocea,major,(Cavol.) Grande
 Cymodocea,nodosa,(Ucria) Asch.
 Cynocrambe,,
-Cynocrambe,prostrata,Gaertn.
 Cynodon,,
 Cynodon,dactylon,(L.) Pers.
 Cynomorium,,
@@ -836,22 +822,18 @@ Cyperus,capitatus,Vandelli
 Cyperus,difformis,L.
 Cyperus,distachyos,Ail.
 Cyperus,esculentus,L.
-Cyperus,flavescens,L.
-•˛»»,,
-•˛»»,fuscus,L.
-•˛»»,glaber,L.
-•˛»»,globosus,Ail.
-•˛»»,junciformis,Cav.
-•˛»»,kalli,(Forsk.) Murb.
-•˛»»,laevigatus,L.
-.*»,,
-.*»,longus,L.
-.*»,michelianus,(L.) Link
-.*»,mucronatus,(L.) Mab/
-.*»,mundtii,(Nées) Kunth
-.*»,papyrus,L.
-.*»,pygmaeus,Rottb.
-.*»,rotundus,L.
+Cyperus,flavescens,L. fuscus L.
+Cyperus,glaber,L.
+Cyperus,globosus,Ail.
+Cyperus,junciformis,Cav.
+Cyperus,kalli,(Forsk.) Murb.
+Cyperus,laevigatus,L. longus L.
+Cyperus,michelianus,(L.) Link
+Cyperus,mucronatus,(L.) Mab/
+Cyperus,mundtii,(Nées) Kunth
+Cyperus,papyrus,L.
+Cyperus,pygmaeus,Rottb.
+Cyperus,rotundus,L.
 Cystopteris,,
 Cystopteris,filix-fragilis,(L.) Borb.
 Cystopteris,fragilis,Bernh.
@@ -867,7 +849,6 @@ Dactyloctenium,,
 Dactyloctenium,aegyptiacum,Willd.
 Dactyloctenium,aegyptium,L.) Asch. et Schw.
 Dactylon,,
-Dactylon,memphiticum,Spreng.
 Damasonium,,
 Damasonium,alisma,Mill.
 Damasonium,bourgaei,Goss.
@@ -899,11 +880,9 @@ Dianthus,superbus,L.
 Dianthus,tripunctatus,Sibth. et Smith
 Dianthus,velutinus,Guss.
 Dichoglottis,,
-Dichoglottis,linearifolia,Fisch et Mey.
 Digitaria,,
 Digitaria,sanguinalis,(L.) Scop.
 Dracunculus,,
-Dracunculus,crassipes,Boiss.
 Dryopteris,,
 Dryopteris,aculeata,(L.) O. Kuntze
 Dryopteris,libanotica,(Ros.) A. Christ.
@@ -950,7 +929,7 @@ Epipactis,,
 Epipactis,consimilis,Don.
 Epipactis,helleborine,(L.) Crantz
 Epipactis,latifolia,(L.) Ail.
-Epipactis,veratrifolia,Boiss. et Heldr. '
+Epipactis,veratrifolia,Boiss. et Heldr.
 Equisetum,,
 Equisetum,maximum,Lam.
 Equisetum,palustre,L.
@@ -965,7 +944,6 @@ Eragrostis,pilosa,(L.) Beauv.
 Eragrostis,poaeoides,Beauv.
 Eragrostis,tatarica,(Fisch.) Henr.
 Eremopoa,,
-Eremopoa,persica,(Trin.) Roshev
 Eremopyron,,
 Eremopyron,buonapartis,(Spreng.) Nevski
 Eremopyron,distans,(C. Koch) Nevski
@@ -977,14 +955,10 @@ Eremurus,hostii,Griseb.
 Eremurus,ravennae,(L.) Beauv.
 Eremurus,strictus,"(Host), Bluff, et Fingerh."
 Erythrostictus,,
-Erythrostictus,palaestinus,Boiss.
 Eupteris,,
 Eurotia,,
-Eurotia,ceratoides,(L.) C. A. Mey.
 Fagopyrum,,
-Fagopyrum,convolvulus,L.) Gross.
 Fagus,,
-Fagus,orientalis,Lipsky
 Festuca,,
 Festuca,arundinacea,Schreb.
 Festuca,bromoides,L.
@@ -1063,7 +1037,6 @@ Gaudinopsis,macra,(Stev.) Eig
 Girgensohnia,,
 Girgensohnia,oppositiflora,Pali.
 Githago,,
-Githago,segetum,Desf.
 Gladiolus,,
 Gladiolus,aleppicus,Boiss.
 Gladiolus,anatolicus,Boiss.
@@ -1100,7 +1073,7 @@ Gypsophila,aucheri,Boiss.
 Gypsophila,capillaris,(Forsk.) Christ.
 Gypsophila,cœlesyriaca,(Boiss.) Williams
 Gypsophila,damascena,Boiss.
-Gypsophila,elegans,M. Bieb
+Gypsophila,elegans,M. Bieb filicaulis (Boiss.) Bornm.
 Gypsophila,frankenioides,Boiss.
 Gypsophila,gypsophiloides,(Fenzl) Blakel.
 Gypsophila,haussknechtii,Boiss.
@@ -1155,7 +1128,6 @@ Helicophyllum,,
 Helicophyllum,crassipes,(Boiss.) Schott
 Helicophyllum,rauwolfii,(Blume) Schott
 Helictotrichon,,
-Helictotrichon,convolutum,(Presl) Henr.
 Hemarthria,,
 Hemarthria,altissima,(Poir.) Stapf et Hubb.
 Hemarthria,fasciculata,(Lam.) Kunth
@@ -1174,9 +1146,8 @@ Herniaria,microcarpa,Presl
 Heteranthelium,,
 Heteranthelium,piliferum,(Banks et Sol.) Hochstt.
 Heteropogon,,
-f,,
-f,allionii,(Lam. et D.C.) Rœm. et Sch.
-f,contortus,(L.) Rœm. et Schult.
+Heteropogon,allionii,(Lam. et D.C.) Rœm. et Sch.
+Heteropogon,contortus,(L.) Rœm. et Schult.
 Himantoglossum,,
 Himantoglossum,affine,(Boiss.) Schlecht.
 Himantoglossum,bolleanum,Schlecht.
@@ -1219,9 +1190,7 @@ Hyparrhenia,,
 Hyparrhenia,hirta,(L.) Stapf
 Hypocylix,,
 Hypocylix,kerneri,Wol.
-Hypocylix,.,neghevensis Iljin
 Hypoxis,,
-Hypoxis,fascicularis,L.
 Illecebrum,,
 Illecebrum,ambicum,L.
 Illecebrum,paronychia,L.
@@ -1229,7 +1198,6 @@ Imperata,,
 Imperata,arundinacea,Cyr.
 Imperata,cylindrica,(L.) Beauv.
 Ionorchis,,
-Ionorchis,abortiva,(L.) Beck
 Iris,,
 Iris,albicans,Lange
 Iris,antilibanotica,Dinsm.
@@ -1299,18 +1267,16 @@ Juncus,effusus,L.
 Juncus,fontanesiij.,Gay
 Juncus,forsteri,Smith
 Juncus,gerardi,Loisel.
-Juncus,glaucus,L.
-_,,
-_,inflexus,L.
-_,lamprocarpus,Ehrh.
-_,libanoticus,Thiéb.
-_,maritimus,Lam.
-_,punctorius,L.f.
-_,pygmseus,Rich.
-_,pyramidatus,Laharpe
-_,sphaerocarpus,Ness
-_,subulatus,Forsk.
-_,tenageia,Ehrh.
+Juncus,glaucus,L. inflexus L.
+Juncus,lamprocarpus,Ehrh.
+Juncus,libanoticus,Thiéb.
+Juncus,maritimus,Lam.
+Juncus,punctorius,L.f.
+Juncus,pygmseus,Rich.
+Juncus,pyramidatus,Laharpe
+Juncus,sphaerocarpus,Ness
+Juncus,subulatus,Forsk.
+Juncus,tenageia,Ehrh.
 Juniperus,,
 Juniperus,drupacea,Lab.
 Juniperus,excelsa,M. Bieb.
@@ -1369,11 +1335,9 @@ Lolium,speciosum,Stev.
 Lolium,subulatum,Vis.
 Lolium,temulentum,L.
 Lophochloa,,
-Lophochloa,phleoides,(Vill.) Reichenb.
 Loranthus,,
 Loranthus,europaeus,L.
 Loroglossum,,
-Loroglossum,hircinum,(L.) C. Rich.
 Luzula,,
 Luzula,forsteri,(Sm.) D.C.
 Lychnis,,
@@ -1535,7 +1499,6 @@ Ophrys,speculum,Link
 Ophrys,spruneri,Nym.
 Ophrys,tenthredinifera,Willd.
 Oporanthus,,
-Oporanthus,fischerianus,Herb.
 Orchis,,
 Orchis,abartiva,L.
 Orchis,anatolica,Boiss.
@@ -1546,7 +1509,7 @@ Orchis,chlorantha,Custer
 Orchis,cilicica,Schlecht.
 Orchis,collina,Banks et Sol.
 Orchis,commutata,Tod.
-Orchis,comperiâ,a Stev.
+Orchis,comperiâ,Stev.
 Orchis,coriophora,L.
 Orchis,fuciflora,Crantz
 Orchis,galilaea,(Bornm. et M. Sch.)
@@ -1641,7 +1604,6 @@ Panicum,setaceum,Gmel.
 Panicum,vertkillatum,L.
 Panicum,viride,L.
 Pappophorum,,
-Pappophorum,pumilio,Trin.
 Parapholis,,
 Parapholis,incurva,(Dum. -Cours.) C. Hubb.
 Parapholis,strigosa,(D.C.) C. Hubb.
@@ -1672,7 +1634,6 @@ Penmsetum,ciliare,(L.) Link
 Penmsetum,divisum,(CC. Gmel.) Henr.
 Penmsetum,setaceum,(Forsk.) Chiov.
 Petrorhagia,,
-Petrorhagia,velutina,(Guss.) P. W. Bail
 Petrosimonia,,
 Petrosimonia,brachiata,(Pall.) Bunge
 Phacelurus,,
@@ -1714,7 +1675,6 @@ Pholiurus,persicus,(Boiss.) A. Camus
 Phragmites,,
 Phragmites,communis,Trin.
 Phucagrostis,,
-Phucagrostis,major,Cavolini
 Phyllitis,,
 Phyllitis,hemionitis,(Lagr.) O. Kuntze
 Phyllitis,scolopendrium,(L.) Newm.
@@ -1767,15 +1727,12 @@ Poa,tatarica,Fisch.
 Poa,timoleontis,Heldr.
 Poa,trivialis,L.
 Pollinia,,
-Pollinia,distachya,(L.) Spreng.
 Polycarpon,,
 Polycarpon,alsinifolium,(Biv.) D.C
 Polycarpon,succulentum,(Del.) J. Gay
 Polycarpon,tetraphyllum,L.
 Polycnemum,,
-Polycnemum,brachiatum,Pali.
 Polygonatum,,
-Polygonatum,polyanthemum,(M. Bieb.)
 Polygonum,,
 Polygonum,aleppicum,Boiss. et Hausskn.
 Polygonum,alpestre,C. A. Mey.
@@ -1800,12 +1757,10 @@ Polygonum,patutum,M. Bieb
 Polygonum,persicaria,L.
 Polygonum,plebeium,Del.
 Polygonum,polycnemoides,Jaub. et Spach
-Polygonum,salicifolium,Brouss.
-.,,
-.,scabrum,Poir.
-.,serrulatum,Lagr.
-.,setosum,Jacqu.
-.,venantianum,Glem.
+Polygonum,salicifolium,Brouss. scabrum Poir.
+Polygonum,serrulatum,Lagr.
+Polygonum,setosum,Jacqu.
+Polygonum,venantianum,Glem.
 Polypodium,,
 Polypodium,aculeatum,L.
 Polypodium,filix-femina,L.
@@ -1824,7 +1779,7 @@ Populus,,
 Populus,alba,L.
 Populus,bolleana,Lauche
 Populus,canescens,Smith
-Populus,carolinensis,F oug.
+Populus,carolinensis,oug.
 Populus,euphratica,Oliv.
 Populus,globosa,Dode
 Populus,italica,Duroi
@@ -1906,7 +1861,6 @@ Quercus,syriaca,Ky
 Quercus,tauricola,Ky
 Quercus,ungeri,Ky
 Queria,,
-Queria,hispanica,L.
 Rheum,,
 Rheum,palaestinum,Finbr.
 Rheum,ribes,L.
@@ -2020,7 +1974,6 @@ Salsola,incanescens,C. A. Mey.
 Salsola,inermis,Forsk.
 Salsola,jordanicola,Eig
 j.,,
-j.,kali,L.
 j.,lancifolia,Boiss.
 j.,mucronata,Forsk.
 j.,muricata,L.
@@ -2056,7 +2009,6 @@ Schismus,arabicus,Nees
 Schismus,barbatus,(L.) Thell.
 Schismus,calycinus,(L.) Host
 Schoberia,,
-Schoberia,salsa,C. A. Mey.
 Schœnus,,
 Schœnus,compressus,L.
 Schœnus,mariscus,L.
@@ -2143,6 +2095,64 @@ Silène,,
 Silène,aegyptiaca,L. fil.
 Silène,alba,Mill.
 Silène,amana,Boiss.
+Silène,apetala,Willd.
+Silène,astartes,BL
+Silène,atocion,Juss.
+Silène,behen,L.
+Silène,bipartita,Desf.
+Silène,boryi,Boiss.
+Silène,caeli-rosa,(L.) A. Br.
+Silène,capitellata,Boiss.
+Silène,caryophylloides,(Poir.) Otth
+Silène,cassia,Boiss.
+Silène,cerastoides,L.
+Silène,chaetodonta,Boiss.
+Silène,chlorifolia,Smith
+Silène,colorata,Poir.
+Silène,commutata,Guss.
+Silène,compacta,Fisch.
+Silène,confertiflora,Chowdhuri
+Silène,coniflora,Otth
+Silène,conoidea,L.
+Silène,crassipes,Fenzl
+Silène,eretica,L.
+Silène,cucubalus,Wib.
+Silène,damascena,Boiss. et Gaill.
+Silène,decumbens,Bib.
+Silène,dichotoma,Ehrh.
+Silène,eremophila,Bienert
+Silène,fuscata,Link
+Silène,gallica,L.
+Silène,gigantea,L.
+Silène,gonocalyx,Boiss.
+Silène,grisea,Boiss.
+Silène,inflata,(Salisb.) Smith
+Silène,intricata,Post
+Silène,italica,(L.) Pers.
+Silène,juncea,Sibth. et Smith
+Silène,kotschyi,Boiss.
+Silène,laeta,(Ait.) A. Br.
+Silène,iagenocalyx,Fenzl
+Silène,libanotica,Boiss.
+Silène,linearis,Decne
+Silène,longipetala,Ventenat
+Silène,lydia,Boiss.
+Silène,macrodonta,Boiss.
+Silène,makmeliana,Boiss.
+Silène,marschallii,C. A. Mey.
+Silène,modesta,Boiss. et Bl.
+Silène,muscipula,L.
+Silène,nocturna,L.
+Silène,odontopetala,Fenzl
+Silène,oliveriana,Otth
+Silène,palaestina,Boiss.
+Silène,papillosa,Boiss.
+Silène,pharnaceifolia,Fenzl
+Silène,physalodes,Boiss.
+Silène,physocalyx,Ledeb.
+Silène,picta,D.C.
+Silène,pruinosa,Boiss.
+Silène,racemosa,Otth
 Silène,reuteriana,Boiss.
 Silène,rubella,L.
 Silène,schlumbergeri,Boiss.
@@ -2196,8 +2206,7 @@ Spodiopogon,,
 Sporobolus,,
 Sporobolus,arenarius,(Gouan) Duval-Jouve
 Sporobolus,pungens,(Schreb.) Kunth
-Flore,,
-Flore,virginicus,(L.) Kunth
+Sporobolus,virginicus,(L.) Kunth
 Stellaria,,
 apetala,,
 apetala,cerastoides,L.
@@ -2252,7 +2261,6 @@ Themeda,forskalei,(Kunth
 Themeda,quadrivalvis,(L.) Kuntze
 Themeda,triandra,Forsk.˛
 Theresia,,
-Theresia,libanotica,Boiss.
 Thesium,,
 Thesium,arvense,Horv.
 Thesium,bergeri,Zucc.
@@ -2266,7 +2274,6 @@ Trachynia,distachya,(L.) Link
 Traganum,,
 Traganum,nudatum,Del.
 Trickonema,,
-Trickonema,nivalis,Boiss. et Ky
 Trisetaria,,
 Trisetaria,cavanillesii,(Trin.) Maire
 Trisetaria,flavescens,(L.) Maire
@@ -2310,67 +2317,36 @@ Tulipa,praecox,Ten.
 Tulipa,systola,Stapf
 Tunica,,
 Tunica,arabica,Boiss.
-Tunica,brachypetala,Jaub. et Spach
-Tunica,pachygona,Fisch. et Mey.
-Tunica,syriaca,Boiss.
-Tunica,velutina,(Guss.) Fisch. et Mey.
 Typha,,
-Typha,angustata,Bory et Chaub.
-Typha,angustifolia,L.
-Typha,australis,Schum. et Thonn.
-Typha,laxmannii,Lepechin
-Typha,stenophylla,Fisch. et Mey.
+Typha,—latifolia,L.
 Ulmus,,
-Ulmus,campestris,L.
-Ulmus,canescens,Melville
-Ulmus,glabra,Huds.
-Ulmus,montana,Willd.
 Urginea,,
-Urginea,maritima,(L.) Baker
-Urginea,scilla,Sternb.
 Urockloa,,
-Urockloa,reptans,(L.) Stapf
 Urtica,,
-Urtica,caudata,Vahl
-Urtica,dioica,L.
-Urtica,fragilis,Thiéb.
-Urtica,hulensis,Feinbr.
-Urtica,membranacea,Poir.
-Urtica,pilulifera,L.
-Urtica,urens,L.
 Vaccaria,,
-Vaccaria,liniflora,(Boiss. et Hausskn.) Bornm.
-Vaccaria,oxydonta,Boiss.
-Vaccaria,parviflora,Mœnch
-Vaccaria,pyramidata,Medik.
-Vaccaria,segetalis,(Necker) Garcke
 Vallisneria,,
-Vallisneria,spiralis,L.
 Velezia,,
-Velezia,fasciculata,Boiss.
-Velezia,rigida,L.
 Ventenata,,
-Ventenata,blanchei,Boiss.
-Ventenata,macra,(Stev.) Boiss.
 Viscum,,
-Viscum,album,L.
-Viscum,cruciatum,Sieb.
-Viscum,laxum,Boiss. et Reut.
-Viscum,brevis,Boiss.
-Viscum,bromoides,(L.) Gray
-Viscum,ciliata,(Pers.) Link
-Viscum,dertonensis,(All.) Gola
-Viscum,hirtiglumis,Boiss.
-Viscum,inops,(Del.) Hack.
-Viscum,membranacea,(L.) Link
-Viscum,myuros,(L.) C. C. Gmel.
-Viscum,patens,Boiss.
-Viscum,pectinella,Del.
-Viscum,sciuroides,(Roth) Gmel.
-Viscum,uniglumis,(Sol.) Dumort.
-Viscum,Wolffia,arrhiza (L.) Wimm.
-palustris,,
-palustris,Zea,mays L.
-palustris,Zebrina,pendula Schnizl
-palustris,Zingeria,biebersteiniana (Claus) P. Smirnov
-nana,,
+Vulpia,,
+Vulpia,brevis,Boiss.
+Vulpia,bromoides,(L.) Gray
+Vulpia,ciliata,(Pers.) Link
+Vulpia,dertonensis,(All.) Gola
+Vulpia,hirtiglumis,Boiss.
+Vulpia,inops,(Del.) Hack.
+Vulpia,membranacea,(L.) Link
+Vulpia,myuros,(L.) C. C. Gmel.
+Vulpia,patens,Boiss.
+Vulpia,pectinella,Del.
+Vulpia,sciuroides,(Roth) Gmel.
+Vulpia,uniglumis,(Sol.) Dumort.
+Weingartneria,,
+Wolffia,,
+Zannichellia,,
+Zannichellia,palustris,L.
+Zea,,
+Zebrina,,
+Zingeria,,
+Zostera,,
+Zostera,nana,Roth
