@@ -248,7 +248,7 @@ Asteriscus,pygmaeus,(DC.) Coss. et Dur.
 Asterolinon,,Hoffmans. et Link
 Asterolinon,linum-stellatum,(L.) Duby
 Asyneuma,,Griseb. et Schrenk
-Asyneuma,lanceolatum,(Willd.) Hand.-Mazz.
+Asyneuma,lanceolatum,(Willd.) Hand.-Mazz. alpinum Bornm.
 Asyneuma,rigidum,(Willd.) Grossh.
 Asyneuma,virgatum,(Labili.) Bornm.
 Atractylis,,L.
@@ -465,7 +465,6 @@ Centaurea,balsamitoides,Post
 Centaurea,behen,L.
 Centaurea,blancheana,Mouterde
 Centaurea,bruguieriana,(DC.) Hand.-Mazz.
-Centaurea,calcitrapa,L
 Centaurea,carduiformis,DC.
 Centaurea,cassia,Boiss.
 Centaurea,cerinthifolia,Sm. in Sibth. ex Boiss.
@@ -583,10 +582,10 @@ Chamomilla,officinalis,L.
 Chardinia,,Desf.
 Chardinia,orientalis,(L.) O. Kuntze
 Chardinia,xeranthemoides,Desf.
-Chartolepi,,ţ Cass.
+Chartolepi,,Cass.
 Chartolepi,cheiroloi,'ha Fenzl
 Cheirolepis,,Boiss.
-Cheirolepis,libanotii,« Boiss.
+Cheirolepis,libanotii,Boiss.
 Chlora,,Adans.
 Chlora,perfoliata,(L.) L.
 Chlora,serotina,Reichenb.
@@ -698,7 +697,6 @@ Cousinia,chaborasica,Bornm. et Hand.-Mazz.
 Cousinia,dayi,Post
 Cousinia,drusorum,Bornm. et Sam.
 Cousinia,hermonis,Boiss.
-Cousinia,libanotica,D C
 Cousinia,pestalozzae,Boiss.
 Cousinia,postiana,Winkler
 Cousinia,ramosissima,DC.
@@ -822,7 +820,6 @@ Doronicum,orientale,Hoffm.
 Dracocephalum,,L.
 Dracocephalum,ibericum,Bieb.
 Dracocephalum,royleanum,Benth. in Wallich
-Flore,,-
 Dufresnia,,DC.
 Dufresnia,leiocarpa,C. Koch
 Dufresnia,orientalis,DC.
@@ -841,7 +838,6 @@ Echinospermum,barbatum,(Bieb.) Lehm.
 Echinospermum,cariense,Boiss.
 Echinospermum,oligacanthum,Boiss. non Ledeb.
 Echinospermum,sessiliflorum,Boiss.
-Echinospermum,sinaicum,D C
 Echinospermum,spinocarpos,(Forrsk.) Boiss.
 Echinospermum,szovitsianum,Fisch. et Mey.
 Echiochilon,,Desf.
@@ -989,8 +985,8 @@ Galium,setaceum,Lam.
 Galium,spurium,L.
 Galium,syriacum,Boiss.
 Galium,tenuissimum,M. Bieb.
-Galium,thiebautii,Ehrendorfer x canum
-Galium,thiebautii,Ehrendorfer x canum
+Galium,thiebautii,Ehrendorfer canum
+Galium,thiebautii,Ehrendorfer canum
 Galium,thiebautii,Requien
 Galium,tricorne,Stokes in With.
 Galium,tricornutum,Dandy
@@ -1271,7 +1267,7 @@ Linaria,genistifolia,(L.) Miller
 Linaria,gombaultii,Thiéb.
 Linaria,graeca,Chav.
 Linaria,joppensis,Bornm.
-Linaria,lanigera,Desf. •
+Linaria,lanigera,Desf.
 Linaria,longipes,Boiss. et Heldr.
 Linaria,micrantha,(Cav.) Hoffm. et Link
 Linaria,minor,(L.) Desf.
@@ -1331,9 +1327,8 @@ Lysimachia,,L.
 Lysimachia,dubia,Ait.
 Lysimachia,linum-stellatum,L.
 Majorana,,Miller
-Majorana,syriaca,(L) Rafin.
-x,,Majoranamaracus Rech. fil.
-x,zernyi,Rech. fil.
+Majorana,syriaca,(L) Rafin. Majoranamaracus Rech. fil.
+Majorana,zernyi,Rech. fil.
 Mandragora,,L.
 Mandragora,autumnalis,Bertol.
 Mandragora,haussknechtii,Heldr.
@@ -1437,8 +1432,7 @@ Myosotis,stricta,Link ex Roem. et Schult.
 Nepeta,,L.
 Nepeta,bithynica,Bornm.
 Nepeta,caesarea,Boiss.
-Nepeta,calycina,Fenzl
-Nepeta,x,campylantha Rech. fil.
+Nepeta,calycina,Fenzl campylantha Rech. fil.
 Nepeta,cataria,L.
 Nepeta,cilicica,Boiss.
 Nepeta,cryptantha,Boiss. et Hausskn.
@@ -1506,9 +1500,9 @@ Onopordum,viscosum,Hornem. apud Sprengel
 Onosma,,L.
 Onosma,aleppica,Boiss.
 Onosma,albo-rosea,Fisch. et Mey.
-Onosma,armena,DC. '
+Onosma,armena,DC.
 Onosma,aucherana,DC.
-Onosma,auriculata,Auch. ex D C
+Onosma,auriculata,Auch. ex
 Onosma,caerulescens,Boiss.
 Onosma,caspica,Willd.
 Onosma,cassia,Boiss.
@@ -1533,28 +1527,20 @@ Onosma,xanthotricha,Boiss.
 Oporinia,,D. Don
 Oporinia,laciniata,Bertol.
 Origanum,,L.
-Origanum,x,"adonidis Moût. barbarae Bornm. pabotii Moût. symeonis Moût,"
-Origanum,x,"adonidis Moût. barbarae Bornm. pabotii Moût. symeonis Moût,"
-Origanum,bargyli,"Moût, x syriacum"
-Origanum,bargyli,"Moût, x syriacum"
-Origanum,bargyli,"adonidis Moût. barbarae Bornm. pabotii Moût. symeonis Moût,"
+Origanum,bargyli,"Moût, syriacum"
+Origanum,bargyli,"Moût, syriacum"
 Origanum,bargyli,L.
 Origanum,brevidens,(Bornm.) Dinsm.
-Origanum,ehrenbergii,Boiss. x syriacum
-Origanum,ehrenbergii,Boiss. x syriacum
-Origanum,ehrenbergii,"adonidis Moût. barbarae Bornm. pabotii Moût. symeonis Moût,"
+Origanum,ehrenbergii,Boiss. syriacum
+Origanum,ehrenbergii,Boiss. syriacum
 Origanum,ehrenbergii,L.
-Origanum,laevigatum,Boiss. x syriacum
-Origanum,laevigatum,Boiss. x syriacum
-Origanum,laevigatum,"adonidis Moût. barbarae Bornm. pabotii Moût. symeonis Moût,"
+Origanum,laevigatum,Boiss. syriacum
+Origanum,laevigatum,Boiss. syriacum
 Origanum,laevigatum,L.
-Origanum,libanoticum,Boiss. x syriacum
-Origanum,libanoticum,Boiss. x syriacum
-Origanum,libanoticum,"adonidis Moût. barbarae Bornm. pabotii Moût. symeonis Moût,"
+Origanum,libanoticum,Boiss. syriacum
+Origanum,libanoticum,Boiss. syriacum
 Origanum,libanoticum,L.
-Origanum,maru,auct. non L.
-Origanum,x,"adonidis Moût. barbarae Bornm. pabotii Moût. symeonis Moût,"
-Origanum,x,"adonidis Moût. barbarae Bornm. pabotii Moût. symeonis Moût,"
+Origanum,maru,"auct. non L. pabotii Moût. symeonis Moût,"
 Origanum,syriacum,L.
 Origanum,vulgare,L.
 Ormenis,,Cass.
@@ -1775,7 +1761,6 @@ Pterotheca,obovata,Boiss. et Noë
 Ptilostemon,,Cass.
 Ptilostemon,chamaepeuce,(L.) Less.
 Ptilostemon,diacantha,(Labili.) Greuter
-Ptilostemon,x,pabotii Greuter
 Ptosimopappus,,Boiss.
 Ptosimopappus,bracteatus,Boiss.
 Pulicaria,,Gaertner
@@ -1813,7 +1798,6 @@ Rhagadiolus,hedypnois,Fisch. et C.A. Mey.
 Rhagadiolus,koelpinia,Willd.
 Rhagadiolus,stellatus,(L.) Gaertn.
 Rhaponserratula,,Moût. mss.
-Rhaponserratula,x,mouterdei (Arènes) Mouterde mss.
 Rhaponticum,,auct.
 Rhaponticum,pusillum,(Labili.) Boiss.
 Rhaponticum,pygmaeum,DC.
@@ -1994,8 +1978,7 @@ Scutellaria,utriculata,Labili.
 Senecio,,L.
 Senecio,aquaticus,Hill
 Senecio,barbareifolius,Krocker
-Senecio,bertrami,Post
-Senecio,x,berythaeus Camus et Gombault
+Senecio,bertrami,Post berythaeus Camus et Gombault
 Senecio,coronopifolius,Desf. non Burm. f.
 Senecio,delbesianus,Arènes
 Senecio,desfontainei,Druce
@@ -2006,9 +1989,8 @@ Senecio,gallicus,Chaix in Vill.
 Senecio,glaucus,DC.
 Senecio,leucanthemifolius,Poir.
 Senecio,mouterdei,Arènes
-Senecio,vernalis,Waldst. et Kit. x leucanthemifolius
-Senecio,vernalis,Waldst. et Kit. x leucanthemifolius
-Senecio,vernalis,berythaeus Camus et Gombault
+Senecio,vernalis,Waldst. et Kit. leucanthemifolius
+Senecio,vernalis,Waldst. et Kit. leucanthemifolius
 Senecio,vernalis,Poir.
 Senecio,vulgaris,L.
 Seriola,,L.
@@ -2256,8 +2238,8 @@ Tragopogon,longirostris,Bisch. ex Schultz Bip.
 Tragopogon,nervulosum,Boiss.
 Tragopogon,palaestinum,Boiss.
 Tragopogon,picroides,L.
-Flore,plantagineum,Boiss.
-Flore,pterocarpus,DC.
+Tragopogon,plantagineum,Boiss.
+Tragopogon,pterocarpus,DC.
 Tripleurospermum,,Schultz Bip.
 Tripleurospermum,auriculatum,(Boiss.) Rech.
 Tripleurospermum,grandiflorum,(Boiss. et Hausskn.) Bornm.
@@ -2298,7 +2280,6 @@ Valerianella,antilibanotica,Rech. fil.
 Valerianella,aucheri,Boiss.
 Valerianella,balansae,Matthews
 Valerianella,boissieri,Krok.
-Flore,,-
 Valerianella,carinata,Lois.
 Valerianella,chlorostephana,Boiss. et Bal.
 Valerianella,coronata,(L.) DC. Willd.
@@ -2335,8 +2316,10 @@ Varthemia,iphionoides,Boiss. et Bl.
 Verbascum,,L.
 Verbascum,agMmoniifolium,(C. Koch) Hub.-Mor.
 Verbascum,aintabicum,Post
-Verbascum,alepense,Benth. in DC.
-Verbascum,aliciae,Post
+Verbascum,alepense,Benth. in DC. assurense Bornm. et Hand.-Mazz.
+Verbascum,alepense,Bornm. et Hand.-Mazz.
+Verbascum,aliciae,Post kotschyi Boiss. et Hoh.
+Verbascum,aliciae,Boiss. et Hoh.
 Verbascum,alpinum,(Boiss. et Ky.) O. Kuntze non
 Verbascum,antari,Post
 Verbascum,antilibanoticum,Hub.-Mor.
@@ -2353,6 +2336,7 @@ Verbascum,boissieri,Post
 Verbascum,brevidens,Benth.
 Verbascum,caesareum,Boiss.
 Verbascum,caudatum,Post
+Verbascum,cedreti,Boiss. lasianthum Boiss.
 Verbascum,cedreti,Boiss.
 Verbascum,cedretioides,Gombault
 Verbascum,cestroides,Boiss. et Hausskn.
@@ -2360,8 +2344,10 @@ Verbascum,damascenum,Boiss.
 Verbascum,elegans,Salisb.
 Verbascum,eremobium,Murb.
 Verbascum,gadarense,Post
-Verbascum,gaillardotii,Boiss.
-Verbascum,galilaeum,Boiss.
+Verbascum,gaillardotii,Boiss. sinuatum L. tripolitanum Boiss.
+Verbascum,gaillardotii,L.
+Verbascum,galilaeum,Boiss. sinuatum L.
+Verbascum,galilaeum,L.
 Verbascum,geminiflorum,Hochst.
 Verbascum,gileadense,Post
 Verbascum,glanduliferum,(Post) Hub.-Mor.
@@ -2375,7 +2361,8 @@ Verbascum,karyeteini,Post
 Verbascum,kotschyi,Boiss. et Hoh.
 Verbascum,lanceolatum,O. Kuntze non Kit.
 Verbascum,lasianthum,Boiss.
-Verbascum,leptostachyum,DC.
+Verbascum,leptostachyum,DC. ptychophyllum Boiss. tropidocarpum Murb.
+Verbascum,leptostachyum,Boiss.
 Verbascum,levanticum,I.K.Ferguson
 Verbascum,libanoticum,Murb. et Thiéb.
 Verbascum,mucronatum,Lam.
@@ -2412,7 +2399,8 @@ Verbesina,prostrata,L.
 Veronica,,L.
 Veronica,aleppica,Boiss.
 Veronica,anagallis-aquatica,L.
-Veronica,anagalloides,Guss.
+Veronica,anagalloides,Guss. anagallis-aquatica L.
+Veronica,anagalloides,L.
 Veronica,arvensis,L.
 Veronica,balansae,Stroh
 Veronica,beccabunga,L.
@@ -2442,7 +2430,8 @@ Veronica,macrostachya,"sensu Post et Dinsmore, Vahl"
 Veronica,microtheca,Boiss. et Bal.
 Veronica,midtifida,L.
 Veronica,nudicaulis,Kar. et Kir.
-Veronica,orientalis,Miller
+Veronica,orientalis,Miller leiocarpa Boiss.
+Veronica,orientalis,Boiss.
 Veronica,oxycarpa,Boiss. in Kotschy
 Veronica,panormitana,Tineo et Guss.
 Veronica,pedunculata,"Labili, non Vahl"
@@ -2454,7 +2443,8 @@ Veronica,poliţa,Fries
 Veronica,pusilla,Kotschy et Boiss.
 Veronica,reuterana,Boiss.
 Veronica,samuelssonii,Rech.
-Veronica,scardica,Griseb.
+Veronica,scardica,Griseb. lysimachioides Boiss.
+Veronica,scardica,Boiss.
 Veronica,stenobotrys,Boiss. et Bl. in Boiss.
 Veronica,syriaca,Roem. et Sch.
 Veronica,toumefortii,Gmel.
