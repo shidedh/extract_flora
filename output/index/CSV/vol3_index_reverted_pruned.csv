@@ -36,7 +36,6 @@ page_num,genus,epithet,infra,author,taxon rank
 555,Achillea,Krascheninnikovii,,Afan. ,species
 555,Achillea,membranacea,,(Labili.). DC. ,species
 555,Achillea,membranacea,,Rech. fil. non (Labili.) ,species
-555,Achillea,DC.,,,species
 555,Achillea,micrantha,,Willd. non Willd. ,species
 555,Achillea,odorata,,W. Koch ,species
 555,Achillea,odorata,kotschyi,(Boiss.) Bornm. ,subsp.
@@ -1893,7 +1892,6 @@ page_num,genus,epithet,infra,author,taxon rank
 573,Picnomon,acarna,,(L.) Cass. ,species
 573,Picridium,,,Desf. ,genus
 573,Picridium,dichotomum,,(Vahl) Fisch. et Mey. ex ,species
-573,Picridium,DC.,,,species
 573,Picridium,intermedium,,Schultz Bip. in Webb et ,species
 573,Picridium,Berth.,,,species
 573,Picridium,orientale,,(L.) DC. ,species
@@ -2795,7 +2793,6 @@ page_num,genus,epithet,infra,author,taxon rank
 581,Veronica,lysimachioides,,Boiss. ,species
 581,Veronica,macrostachya,,"sensu Post et Dinsmore, ",species
 581,Veronica,non,,Vahl ,species
-581,Veronica,FLORE,,,species
 581,Veronica,macrostachya,,Vahl ,species
 581,Veronica,macrostachya,macrostachya,,subsp.
 581,Veronica,macrostachya,orientalis,Miller ,hybrid
